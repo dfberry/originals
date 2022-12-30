@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "dotnet_http": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7173",
+      "launchBrowser": false
+    }
+  }
+}
